@@ -1,2 +1,5 @@
 # project
-Testing out features.
+
+responsive web design.
+
+works fine with all media
